@@ -6,7 +6,7 @@
 /**
  * TM1650 digit Display
  */
-//% weight=20 color=#64C800 icon="8" block="TM1650"
+//% weight=20 color=#64C800 icon="8" block="Analog_Screen_ACE"
 namespace Analog_Screen_ACE {
 
     let COMMAND_I2C_ADDRESS = 0x24
